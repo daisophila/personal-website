@@ -1,14 +1,14 @@
 # Basic Information 
 title: Jongchan Park
 position: AI Robotics Engineer
-affiliation: Naver Labs
+affiliation: NAVER LABS
 email: jcpark@naverlabs.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Jongchan Park, AI, Robotics, Reinforcement Learning, Robot Learning, VLA, NAVER LABS, KAIST
+description: Personal academic homepage of Jongchan Park, AI Robotics Engineer at NAVER LABS. Researching Robot Learning, Data-Efficient RL, and VLA models.
+canonical: https://daisophila.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
