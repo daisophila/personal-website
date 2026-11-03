@@ -6,7 +6,7 @@ layout: homepage
 
 I am an AI Robotics Engineer at NAVER LABS, working on robot learning, reinforcement learning (RL), and vision-language-action (VLA) models.
 
-My research focuses on developing generalizable and data-efficient robot learning methods that leverage heterogeneous data across diverse physical embodiments. In In particular, I investigate data-efficient learning in both VLA models and reinforcement learning, exploring hierarchical architectures that leverage cross-embodiment data for generalizable high-level representations while learning embodiment-specific low-level control policies. My experience includes developing RL-based controllers validated on real vehicles at Hyundai Motor Company and VLA models for real-world robots at NAVER LABS.
+My research focuses on developing generalizable and data-efficient robot learning methods that leverage heterogeneous data across diverse physical embodiments. In In particular, I investigate data-efficient learning in both VLA models and reinforcement learning, exploring hierarchical architectures that leverage cross-embodiment data for generalizable high-level representations while learning embodiment-specific low-level policies. My experience includes developing RL-based controllers validated on real vehicles at Hyundai Motor Company and VLA models for real-world robots at NAVER LABS.
 
 My long-term goal is to develop safe and generalizable assistive robots capable of complex, long-horizon tasks through humanoid whole-body control and dexterous bimanual manipulation.
 
