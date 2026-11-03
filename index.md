@@ -56,6 +56,16 @@ Heechan Chung*, Yeeun Im*, **Jongchan Park***, Taeho Lee*, Tae-Young Kim, Hyungj
 
 ---
 
+## Work Experience
+
+* **[NAVER LABS](https://www.naverlabs.com/en)** <align right>(Aug 2026 – Present)</align>  
+  * **AI Robotics Engineer** / Robot Data Platform Team
+
+* **[Hyundai Motor Company](https://www.hyundaimotorgroup.com/en/main/mainRecommend)** <align right>Jan 2025 – Aug 2026</align>  
+  * **Research Engineer** / Vehicle Control Technology Development Team 2
+
+---
+
 ## Education
 
 * **Korea Advanced Institute of Science and Technology (KAIST)** <align right>(Aug 2023 – Feb 2025)</align>  
@@ -66,16 +76,6 @@ Heechan Chung*, Yeeun Im*, **Jongchan Park***, Taeho Lee*, Tae-Young Kim, Hyungj
   * **B.S. in Mechanical Engineering**, Minor in Electrical Engineering
   * **Distinction**: Ranked 1st in the Department; Graduated One Semester Early
   * *Note*: Leave of absence for mandatory military service (Jul 2019 – Feb 2021)
-
----
-
-## Work Experience
-
-* **[NAVER LABS](https://www.naverlabs.com/en)** <align right>(Aug 2026 – Present)</align>  
-  * **AI Robotics Engineer** / Robot Data Platform Team
-
-* **[Hyundai Motor Company](https://www.hyundaimotorgroup.com/en/main/mainRecommend)** <align right>Jan 2025 – Aug 2026</align>  
-  * **Research Engineer** / Vehicle Control Technology Development Team 2
 
 ---
 
