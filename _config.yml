@@ -21,8 +21,8 @@ linkedin: https://www.linkedin.com/in/jongchan-park-215349337/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/Jongchan.jpg
-favicon: ./assets/img/icon.png
-favicon_dark: ./assets/img/icon-dark.png
+favicon: ./assets/img/Icon.png
+favicon_dark: ./assets/img/Icon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
