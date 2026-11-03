@@ -4,15 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am an AI Robotics Engineer at NAVER LABS, working on Robot Learning, Reinforcement Learning (RL), and Vision-Language-Action (VLA) models. 
+I am an AI Robotics Engineer at NAVER LABS, working on robot learning, reinforcement learning (RL), and vision-language-action (VLA) models.
 
-Unlike autonomous driving, robotics faces severe data fragmentation due to diverse physical embodiments. I believe the core bottleneck lies in extracting generalizable representations from cross-embodiment data, which I address using **hierarchical VLA architectures** and **data-efficient RL**. Ultimately, my research goal is to build **safe, data-efficient assistive robots** that can perform complex, long-horizon manipulation tasks for patients and the elderly.
+My research focuses on developing generalizable and data-efficient robot learning methods that leverage heterogeneous data across diverse physical embodiments. In In particular, I investigate data-efficient learning in both VLA models and reinforcement learning, exploring hierarchical architectures that leverage cross-embodiment data for generalizable high-level representations while learning embodiment-specific low-level control policies. My experience includes developing RL-based controllers validated on real vehicles at Hyundai Motor Company and VLA models for real-world robots at NAVER LABS.
+
+My long-term goal is to develop safe and generalizable assistive robots capable of complex, long-horizon tasks through humanoid whole-body control and dexterous bimanual manipulation.
 
 ---
 
 ## News
 
-* **[2026.09]** Released our preprint, *"Lifted Bellman Linear Programming for Offline Reinforcement Learning"*, on arXiv (under review at ICLR 2027).
+* **[2026.11]** Released our preprint, *"An Augmented Lagrangian Approach to Lifted Bellman Linear Programming"*, on arXiv.
+* **[2026.09]** Released our preprint, *"Lifted Bellman Linear Programming for Offline Reinforcement Learning"*, on arXiv.
 * **[2026.08]** Joined **NAVER LABS** as an AI Robotics Engineer (formerly at Hyundai Motor Company).
 * **[2026.07]** My sole-authored paper, *"Scalable Reinforcement Learning via Adaptive Batch Scaling"*, was presented at **ICML 2026**!
 * **[2025.12]** Our paper, *"Pretraining a Shared Q-Network for Data-Efficient Offline Reinforcement Learning"*, was presented at **NeurIPS 2025**!
@@ -24,9 +27,12 @@ Unlike autonomous driving, robotics faces severe data fragmentation due to diver
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
+
+**An Augmented Lagrangian Approach to Lifted Bellman Linear Programming** <br>
+**Jongchan Park**, Hyukjun Yang*, Narim Jeong*, Donghwan Lee <br>
   
 **Lifted Bellman Linear Programming for Offline Reinforcement Learning** <br>
-Hyukjun Yang, **Jongchan Park**, Narim Jeong, Donghwan Lee <br>
+Hyukjun Yang, **Jongchan Park***, Narim Jeong*, Donghwan Lee <br>
 *Under Review* <br>
 [Paper](https://arxiv.org/abs/2609.24489) | [Code](https://github.com/jundol32/QP-ALP)
 
@@ -54,11 +60,11 @@ Heechan Chung*, Yeeun Im*, **Jongchan Park***, Taeho Lee*, Tae-Young Kim, Hyungj
 
 * **Korea Advanced Institute of Science and Technology (KAIST)** <align right>(Aug 2023 – Feb 2025)</align>  
   * **M.S. in Electrical Engineering**
-  * **Distinction**: Early Graduation (One Semester)  
+  * **Distinction**: Graduated One Semester Early  
 
 * **Kookmin University (KMU)** <align right>(Mar 2018 – Feb 2023)</align>  
   * **B.S. in Mechanical Engineering**, Minor in Electrical Engineering
-  * **Distinction**: Early Graduation (One Semester)  
+  * **Distinction**: Ranked 1st in the Department; Graduated One Semester Early
   * *Note*: Leave of absence for mandatory military service (Jul 2019 – Feb 2021)
 
 ---
@@ -91,3 +97,9 @@ Heechan Chung*, Yeeun Im*, **Jongchan Park***, Taeho Lee*, Tae-Young Kim, Hyungj
 
 * **Teaching Assistant**:  
   * **KAIST EE619**: Mathematical Foundations of Reinforcement Learning *(2024)*
+ 
+* **Leadership**
+  * **Lab Representative**: Reinforced Decision Intelligence Lab, KAIST *(2024)*
+
+* **Community Service**:
+  * **Volunteer Football Coach**: Saturday Class for People with Disabilities *(2026 - Present)*
