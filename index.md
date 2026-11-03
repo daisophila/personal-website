@@ -29,10 +29,10 @@ My long-term goal is to develop generalizable assistive robots that can perform 
 <div class='paper-box-text' markdown="1">
 
 **An Augmented Lagrangian Approach to Lifted Bellman Linear Programming** <br>
-**Jongchan Park**, Hyukjun Yang*, Narim Jeong*, Donghwan Lee <br>
+**Jongchan Park**, Hyukjun Yang\*, Narim Jeong\*, Donghwan Lee <br>
   
 **Lifted Bellman Linear Programming for Offline Reinforcement Learning** <br>
-Hyukjun Yang, **Jongchan Park***, Narim Jeong*, Donghwan Lee <br>
+Hyukjun Yang, **Jongchan Park**\*, Narim Jeong\*, Donghwan Lee <br>
 *Under Review* <br>
 [Paper](https://arxiv.org/abs/2609.24489) | [Code](https://github.com/jundol32/QP-ALP)
 
@@ -42,12 +42,12 @@ Hyukjun Yang, **Jongchan Park***, Narim Jeong*, Donghwan Lee <br>
 [Paper](https://arxiv.org/abs/2605.21557) | [Code](https://github.com/daisophila/ABS)
 
 **Pretraining a shared Q-network for data-efficient offline reinforcement learning** <br>
-**Jongchan Park***, Mingyu Park*, Donghwan Lee <br>
+**Jongchan Park**\*, Mingyu Park\*, Donghwan Lee <br>
 *Advances in Neural Information Processing Systems (NeurIPS)*, 2025 <br>
 [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/bd58c2ce8bcd01727ea3d060a6e297a5-Abstract-Conference.html) | [Code](https://github.com/daisophila/PSQN)
 
 **Power consumption optimization of GPU server with offline reinforcement learning** <br>
-Heechan Chung*, Yeeun Im*, **Jongchan Park***, Taeho Lee*, Tae-Young Kim, Hyungjun Kim, Donghwan Lee <br>
+Heechan Chung, Yeeun Im, **Jongchan Park**, Taeho Lee, Tae-Young Kim, Hyungjun Kim, Donghwan Lee <br>
 *IEEE Access*, 2025 <br>
 [Paper](https://ieeexplore.ieee.org/abstract/document/11003853/)
 
