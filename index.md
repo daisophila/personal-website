@@ -25,43 +25,71 @@ My long-term goal is to develop generalizable assistive robots that can perform 
 ## Publications
 (*: equal contribution)
 
+<!-- 1. ICML 2027 -->
 <div class="paper-box">
-<div class="row">
-  <div class="col-sm-3">
-    <img src="./assets/img/paper-thumbnail/ICML2027.gif" class="teaser">
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <div style="width: 150px; min-width: 150px;">
+    <img src="./assets/img/paper-thumbnail/ICML2027.gif"
+         style="width: 150px; height: 110px; object-fit: contain; margin: 0;">
   </div>
-  <div class="col-sm-9" markdown="1">
+
+  <div style="flex: 1;" markdown="1">
 
 **An Augmented Lagrangian Approach to Lifted Bellman Linear Programming** <br>
-**Jongchan Park**, Hyukjun Yang\*, Narim Jeong\*, Donghwan Lee <br>
+**Jongchan Park**, Hyukjun Yang*, Narim Jeong*, Donghwan Lee
 
   </div>
 </div>
 </div>
 
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-  
+<!-- 2. Lifted Bellman LP -->
+<div class="paper-box">
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <div style="width: 150px; min-width: 150px; height: 110px;">
+  </div>
+
+  <div style="flex: 1;" markdown="1">
+
 **Lifted Bellman Linear Programming for Offline Reinforcement Learning** <br>
 Hyukjun Yang, **Jongchan Park**\*, Narim Jeong\*, Donghwan Lee <br>
 *Under Review* <br>
 [Paper](https://arxiv.org/abs/2609.24489) | [Code](https://github.com/jundol32/QP-ALP)
+
+  </div>
+</div>
+</div>
+
+<!-- 3. ICML 2026 -->
+<div class="paper-box">
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <div style="width: 150px; min-width: 150px; height: 110px;">
+  </div>
+
+  <div style="flex: 1;" markdown="1">
 
 **Scalable Reinforcement Learning via Adaptive Batch Scaling** <br>
 **Jongchan Park** <br>
 *International Conference on Machine Learning (ICML)*, 2026 <br>
 [Paper](https://arxiv.org/abs/2605.21557) | [Code](https://github.com/daisophila/ABS)
 
+  </div>
 </div>
 </div>
 
+<!-- 4. NeurIPS 2025 -->
 <div class="paper-box">
-<div class="row">
-  <div class="col-sm-3">
-    <img src="./assets/img/paper-thumbnail/NuerIPS2025.jpg" class="teaser">
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <div style="width: 150px; min-width: 150px;">
+    <img src="./assets/img/paper-thumbnail/NeurIPS2025.jpg"
+         style="width: 150px; height: 110px; object-fit: contain; margin: 0;">
   </div>
-  <div class="col-sm-9" markdown="1">
-    
+
+  <div style="flex: 1;" markdown="1">
+
 **Pretraining a shared Q-network for data-efficient offline reinforcement learning** <br>
 **Jongchan Park**\*, Mingyu Park\*, Donghwan Lee <br>
 *Advances in Neural Information Processing Systems (NeurIPS)*, 2025 <br>
@@ -71,14 +99,21 @@ Hyukjun Yang, **Jongchan Park**\*, Narim Jeong\*, Donghwan Lee <br>
 </div>
 </div>
 
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-  
+<!-- 5. IEEE Access 2025 -->
+<div class="paper-box">
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <div style="width: 150px; min-width: 150px; height: 110px;">
+  </div>
+
+  <div style="flex: 1;" markdown="1">
+
 **Power consumption optimization of GPU server with offline reinforcement learning** <br>
 Heechan Chung, Yeeun Im, **Jongchan Park**, Taeho Lee, Tae-Young Kim, Hyungjun Kim, Donghwan Lee <br>
 *IEEE Access*, 2025 <br>
 [Paper](https://ieeexplore.ieee.org/abstract/document/11003853/)
 
+  </div>
 </div>
 </div>
 
