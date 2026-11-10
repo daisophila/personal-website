@@ -37,7 +37,7 @@ My long-term goal is to develop generalizable assistive robots that can perform 
   <div style="flex: 1;" markdown="1">
 
 **An Augmented Lagrangian Approach to Lifted Bellman Linear Programming** <br>
-**Jongchan Park**, Hyukjun Yang*, Narim Jeong*, Donghwan Lee
+**Jongchan Park**, Hyukjun Yang\*, Narim Jeong\*, Donghwan Lee
 
   </div>
 </div>
