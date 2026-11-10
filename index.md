@@ -25,11 +25,20 @@ My long-term goal is to develop generalizable assistive robots that can perform 
 ## Publications
 (*: equal contribution)
 
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="/assets/img/paper-thumbnail/ICML2027.gif" alt="AL-LBLP thumbnail">
+  </div>
+  <div class="paper-box-text" markdown="1">
 
 **An Augmented Lagrangian Approach to Lifted Bellman Linear Programming** <br>
 **Jongchan Park**, Hyukjun Yang\*, Narim Jeong\*, Donghwan Lee <br>
+
+  </div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
   
 **Lifted Bellman Linear Programming for Offline Reinforcement Learning** <br>
 Hyukjun Yang, **Jongchan Park**\*, Narim Jeong\*, Donghwan Lee <br>
@@ -41,11 +50,23 @@ Hyukjun Yang, **Jongchan Park**\*, Narim Jeong\*, Donghwan Lee <br>
 *International Conference on Machine Learning (ICML)*, 2026 <br>
 [Paper](https://arxiv.org/abs/2605.21557) | [Code](https://github.com/daisophila/ABS)
 
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="/assets/img/paper-thumbnail/NuerIPS2025.jpg" alt="PSQN thumbnail">
+  </div>
+  <div class="paper-box-text" markdown="1">
+    
 **Pretraining a shared Q-network for data-efficient offline reinforcement learning** <br>
 **Jongchan Park**\*, Mingyu Park\*, Donghwan Lee <br>
 *Advances in Neural Information Processing Systems (NeurIPS)*, 2025 <br>
 [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/bd58c2ce8bcd01727ea3d060a6e297a5-Abstract-Conference.html) | [Code](https://github.com/daisophila/PSQN)
 
+  </div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+  
 **Power consumption optimization of GPU server with offline reinforcement learning** <br>
 Heechan Chung, Yeeun Im, **Jongchan Park**, Taeho Lee, Tae-Young Kim, Hyungjun Kim, Donghwan Lee <br>
 *IEEE Access*, 2025 <br>
