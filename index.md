@@ -26,15 +26,17 @@ My long-term goal is to develop generalizable assistive robots that can perform 
 (*: equal contribution)
 
 <div class="paper-box">
-  <div class="paper-box-image">
-    <img src="/assets/img/paper-thumbnail/ICML2027.gif" alt="AL-LBLP thumbnail">
+<div class="row">
+  <div class="col-sm-3">
+    <img src="./assets/img/paper-thumbnail/ICML2027.gif" class="teaser">
   </div>
-  <div class="paper-box-text" markdown="1">
+  <div class="col-sm-9" markdown="1">
 
 **An Augmented Lagrangian Approach to Lifted Bellman Linear Programming** <br>
 **Jongchan Park**, Hyukjun Yang\*, Narim Jeong\*, Donghwan Lee <br>
 
   </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -50,11 +52,15 @@ Hyukjun Yang, **Jongchan Park**\*, Narim Jeong\*, Donghwan Lee <br>
 *International Conference on Machine Learning (ICML)*, 2026 <br>
 [Paper](https://arxiv.org/abs/2605.21557) | [Code](https://github.com/daisophila/ABS)
 
+</div>
+</div>
+
 <div class="paper-box">
-  <div class="paper-box-image">
-    <img src="/assets/img/paper-thumbnail/NuerIPS2025.jpg" alt="PSQN thumbnail">
+<div class="row">
+  <div class="col-sm-3">
+    <img src="./assets/img/paper-thumbnail/NuerIPS2025.jpg" class="teaser">
   </div>
-  <div class="paper-box-text" markdown="1">
+  <div class="col-sm-9" markdown="1">
     
 **Pretraining a shared Q-network for data-efficient offline reinforcement learning** <br>
 **Jongchan Park**\*, Mingyu Park\*, Donghwan Lee <br>
@@ -62,6 +68,7 @@ Hyukjun Yang, **Jongchan Park**\*, Narim Jeong\*, Donghwan Lee <br>
 [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/bd58c2ce8bcd01727ea3d060a6e297a5-Abstract-Conference.html) | [Code](https://github.com/daisophila/PSQN)
 
   </div>
+</div>
 </div>
 
 <div class='paper-box'>
